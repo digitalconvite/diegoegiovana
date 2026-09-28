@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const acompanhantes = document.getElementById('acompanhantes').value;
 
       // Formatação da mensagem para o WhatsApp
-      let mensagem = `*Confirmação de Presença - Casamento Haroldo Jr & Rayane*\n\n`;
+      let mensagem = `*Confirmação de Presença - Casamento Diego & Giovana*\n\n`;
       mensagem += `👤 *Nome:* ${nome}\n`;
       mensagem += `⛪ *Celebração:* ${celebracao}\n`;
       mensagem += `🥂 *Recepção:* ${recepcao}\n`;
